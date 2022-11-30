@@ -1,2 +1,2 @@
-# Metaplex-Candy-Machine
-NFT on Solana
+# SugarClı-Candy-Machine
+NFT Collection on Solana
